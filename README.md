@@ -18,4 +18,6 @@ Real-time Climate Data Pipeline on AWS with CrateDB and Graphana
 ✅ Data modeling (GeoPoint, dynamic objects, time-series)
 
 Ref : https://github.com/crate/realtime-demo
+**Note**: This project was developed as part of a hands-on AWS workshop to 
+demonstrate real-world streaming data engineering skills on 03-12-2025.
 
